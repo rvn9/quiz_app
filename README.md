@@ -1,16 +1,10 @@
 # quiz_app
 
-A new Flutter project.
+A Simple quiz app using FIREBASE REALTIME DB
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="403" alt="Screenshot 2023-05-22 at 09 15 17" src="https://github.com/rvn9/quiz_app/assets/56660530/fe16c311-d3bb-41a1-91f3-0c5dedd6bc6b">
+<img width="404" alt="Screenshot 2023-05-22 at 09 15 33" src="https://github.com/rvn9/quiz_app/assets/56660530/e1bce4a9-b672-4026-b07a-da9bf3e2508a">
+<img width="403" alt="Screenshot 2023-05-22 at 09 15 48" src="https://github.com/rvn9/quiz_app/assets/56660530/169f9255-4895-4f31-b6e4-afc19d51c58b">
+<img width="406" alt="Screenshot 2023-05-22 at 09 16 08" src="https://github.com/rvn9/quiz_app/assets/56660530/f10e3455-22f0-4fd3-8fe2-ad1ea4d506e4">
+![Uploading Screenshot 2023-05-22 at 09.16.30.png…]()
